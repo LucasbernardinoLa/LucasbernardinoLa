@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LucasbernardinoLa
-- 👀 I’m interested work myself up to become a developer    
+- 👀 I’m interested in working myself up to become a developer    
 - 🌱 I’m currently learning python and C#
 - 💞️ I’m looking to collaborate on basic back-end projects usign C# for the time being
 - 📫 How to reach me: lucasblameu@gmail.com
